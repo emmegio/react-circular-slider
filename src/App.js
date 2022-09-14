@@ -65,8 +65,8 @@ const App = () => {
 					labelBottom={true}
 					knobColor='#005a58'
 					knobSize={72}
-					progressColorFrom='#00bfbd'
-					progressColorTo='#009c9a'
+					progressColorFrom='#fff4'
+					progressColorTo='#000'
 					progressSize={24}
 					trackColor='#eeeeee'
 					trackSize={24}
