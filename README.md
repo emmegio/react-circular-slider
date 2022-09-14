@@ -2,21 +2,21 @@
 
 ![](https://img.shields.io/badge/version-2.5.9-green.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A highly customizable circular slider with no dependencies. See some [live demos here!](https://fseehawer.github.io/react-circular-slider/)
+A highly customizable circular slider with no dependencies. See some [live demos here!](https://emmegio.github.io/react-circular-slider/)
 
 <img src="public/circular-slider.png" alt="CircularSlider example image" width="100%" />
 
 ## install
 
 ```
-npm install @fseehawer/react-circular-slider
+npm install @emmegio/react-circular-slider
 ```
 
 ## example
 
 ```javascript
 import React from 'react';
-import CircularSlider from '@fseehawer/react-circular-slider';
+import CircularSlider from '@emmegio/react-circular-slider';
 
 const App = () => {
     return (
@@ -29,11 +29,11 @@ const App = () => {
 export default App;
 ```
 
-Use min and max props to define the range of numbers. Use prependToValue/appendToValue if you want to prepend/append e.g. "$" or "°" to the value. Or simply use the data prop and pass any number or string sequence as an array to be spread in 360°. See some [live demos here!](https://fseehawer.github.io/react-circular-slider/)
+Use min and max props to define the range of numbers. Use prependToValue/appendToValue if you want to prepend/append e.g. "$" or "°" to the value. Or simply use the data prop and pass any number or string sequence as an array to be spread in 360°. See some [live demos here!](https://emmegio.github.io/react-circular-slider/)
 
 ```javascript
 import React from 'react';
-import CircularSlider from '@fseehawer/react-circular-slider';
+import CircularSlider from '@emmegio/react-circular-slider';
 
 const App = () => {
     return (
@@ -93,7 +93,7 @@ onChange             | func   | value => {}   | returns label value
 
 ## Please consider a small donation. Even one dollar will help to maintain and develop new features. Thanks!
 
-[You can find the donate button on the bottom of the example page](https://fseehawer.github.io/react-circular-slider/)
+[You can find the donate button on the bottom of the example page](https://emmegio.github.io/react-circular-slider/)
 
 
 ## license
